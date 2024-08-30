@@ -1,0 +1,28 @@
+.main-heading {
+    background: linear-gradient(87deg, #11CDEF, #1171EF);
+    border-radius: 7px;
+}
+
+.main-heading h4 {
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 600;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.heading {
+    background-image: linear-gradient(to right, #370e05, #703417, #a4641a, #ce9d18, #e7de25);
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    border-radius: 7px;
+}
+
+.heading h4 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px;
+    margin: 10px 0;
+}
